@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_fs_practice_one",
+  "version": "1.0.0",
+  "description": "Reading and writing to a json file",
+  "main": "file_system_demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tunji",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

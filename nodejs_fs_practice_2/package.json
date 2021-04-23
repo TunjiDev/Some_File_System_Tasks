@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_fs_practice_2",
+  "version": "1.0.0",
+  "description": "Checks if a folder exists, if it doesn't create the folder, then fetch data from a jsonplacedholder post, writes the data to the created folder and read it on the server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tunji",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
