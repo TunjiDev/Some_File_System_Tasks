@@ -1,4 +1,4 @@
-A repo showing how to fetch data from a JSON API and writing the data to a file.
+This directory shows how to fetch data from a JSON API and writing the data to a file.
 
 Run "npm i" to get the node modules
 

@@ -1,7 +1,7 @@
 {
   "name": "new_nodejs_project",
   "version": "1.0.0",
-  "description": "This is a new nodejs project",
+  "description": "A dynamic way to read files on a server",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
